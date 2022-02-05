@@ -55,31 +55,373 @@ Calendar
 
 First, please note an important conceptual point about the class schedule: We distinguish a class (which occurs on a set date and time) from a lecture (which is a discussion of a single conceptually related set of topics). A class can contain a single or multiple lectures covered in whole or in part. Similarly, a lecture can span multiple classes.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to Nanometer-structures Technology and Applications  {{< br >}}  {{< br >}}Fourier Optics, Optical Microscope | Assignment 1 handed out |
-| 2 | Fourier Optics, Optical Microscope (cont.) | Assignment 2 handed out |
-| 3 | Spatial Filtering and Contrast in Optical Microscopy |  {{< br >}}{{< br >}} Assignments 1 and 2 due {{< br >}}{{< br >}} Assignment 3 handed out {{< br >}}{{< br >}}  |
-| 4 | Spatial Filtering and Contrast in Optical Microscopy (cont.) | Assignment 4 handed out |
-| 5 | Electron Optics and the Transmission-Electron Microscope | &nbsp; |
-| 6 | Electron Optics and the Transmission-Electron Microscope (cont.) |  {{< br >}}{{< br >}} Assignments 3 and 4 due {{< br >}}{{< br >}} Assignment 5 handed out {{< br >}}{{< br >}}  |
-| 7 | Scanning-Electron-Beam Systems  {{< br >}}  {{< br >}}Signals Collected in Scanning-Electron-Beam Systems | Assignment 5 due |
-| 8 | Signals Collected in Scanning-Electron-Beam Systems (cont.)  {{< br >}}  {{< br >}}Noise Analysis in Scanning-Electron-Beam Systems | &nbsp; |
-| 9 | Substrate Preparation, Characterization, Interferometry, Ellipsometry | Assignment 6 handed out |
-| 10 | Proximity-Probe Methods in Microscopy and Lithography | &nbsp; |
-| 11 | Contamination Control, Cleanrooms, and Substrate Cleaning |  {{< br >}}{{< br >}} Assignment 6 due {{< br >}}{{< br >}} Assignments 7 and 8 handed out {{< br >}}{{< br >}}  |
-| 12 | Resists | Assignment 9 handed out |
-| 13 | Etching in Reactive Gaseous Plasmas |  {{< br >}}{{< br >}} Assignments 7 and 8 due {{< br >}}{{< br >}} Assignments 10 and 11 handed out {{< br >}}{{< br >}}  |
-| 14 | Photolithography | Assignment 9 due |
-| 15 | Optical Projection Photolithography | Assignment 10 due |
-| 16 | Optical Projection Photolithography (cont.) | &nbsp; |
-| 17 | Phase-Measuring Laser Interferometer |  {{< br >}}{{< br >}} Assignment 11 due {{< br >}}{{< br >}} Assignments 12a 12b handed out {{< br >}}{{< br >}}  |
-| 18 | Electron-Beam Lithography (Guest Speaker: Mark Mondol) | Assignment 13 handed out |
-| 19 | Electron Scattering and Proximity Effects | Assignments 12a, 12b, and 13 due |
-| 20 | Interference Lithography  {{< br >}}  {{< br >}}Analyzing and Avoiding Distortion in E-beam Systems (SPLEBL) | Final assignment handed out |
-| 21 | Nanoimprint and Soft Lithography  {{< br >}}  {{< br >}}X-ray Lithography | &nbsp; |
-| 22 | Alignment (Guest Speaker: Dr. Euclid Moon) | &nbsp; |
-| 23 | Lift-off and Electroplating | &nbsp; |
-| 24 | Nonlinear Methods in Optical Lithography | &nbsp; |
-| 25 | Special Class: The Debate | &nbsp; |
-| 26 | Helium-Ion-Beam Microscopy and Lithography | Final assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Nanometer-structures Technology and Applications  
+  
+Fourier Optics, Optical Microscope
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Optics, Optical Microscope (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Spatial Filtering and Contrast in Optical Microscopy
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignments 1 and 2 due
+
+Assignment 3 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Spatial Filtering and Contrast in Optical Microscopy (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electron Optics and the Transmission-Electron Microscope
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Electron Optics and the Transmission-Electron Microscope (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignments 3 and 4 due
+
+Assignment 5 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Scanning-Electron-Beam Systems  
+  
+Signals Collected in Scanning-Electron-Beam Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Signals Collected in Scanning-Electron-Beam Systems (cont.)  
+  
+Noise Analysis in Scanning-Electron-Beam Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Substrate Preparation, Characterization, Interferometry, Ellipsometry
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Proximity-Probe Methods in Microscopy and Lithography
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Contamination Control, Cleanrooms, and Substrate Cleaning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 6 due
+
+Assignments 7 and 8 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Resists
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Etching in Reactive Gaseous Plasmas
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignments 7 and 8 due
+
+Assignments 10 and 11 handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Photolithography
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Projection Photolithography
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Projection Photolithography (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Phase-Measuring Laser Interferometer
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 11 due
+
+Assignments 12a 12b handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Electron-Beam Lithography (Guest Speaker: Mark Mondol)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 13 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Electron Scattering and Proximity Effects
+{{< tdclose >}}
+{{< tdopen >}}
+Assignments 12a, 12b, and 13 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Interference Lithography  
+  
+Analyzing and Avoiding Distortion in E-beam Systems (SPLEBL)
+{{< tdclose >}}
+{{< tdopen >}}
+Final assignment handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Nanoimprint and Soft Lithography  
+  
+X-ray Lithography
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Alignment (Guest Speaker: Dr. Euclid Moon)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Lift-off and Electroplating
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear Methods in Optical Lithography
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Special Class: The Debate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Helium-Ion-Beam Microscopy and Lithography
+{{< tdclose >}}
+{{< tdopen >}}
+Final assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
